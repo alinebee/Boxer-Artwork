@@ -1,0 +1,5 @@
+syntax: glob
+
+#Ignore Finder metadata files
+.DS_Store
+._*
