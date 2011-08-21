@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AMApplicationBuild</key>
+	<string>247.1</string>
+	<key>AMApplicationVersion</key>
+	<string>2.1.1</string>
+	<key>AMDocumentVersion</key>
+	<string>2</string>
+	<key>actions</key>
+	<array>
+		<dict>
+			<key>action</key>
+			<dict>
+				<key>AMAccepts</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Optional</key>
+					<false/>
+					<key>Types</key>
+					<array>
+						<string>com.apple.applescript.alias-object.pdf</string>
+					</array>
+				</dict>
+				<key>AMActionVersion</key>
+				<string>1.6.0</string>
+				<key>AMParameterProperties</key>
+				<dict/>
+				<key>AMProvides</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Types</key>
+					<array>
+						<string>com.apple.applescript.alias-object.pdf</string>
+					</array>
+				</dict>
+				<key>AMRequiredResources</key>
+				<array/>
+				<key>ActionBundlePath</key>
+				<string>/System/Library/Automator/Apply Quartz Filter to PDF Documents.action</string>
+				<key>ActionName</key>
+				<string>Apply Quartz Filter to PDF Documents</string>
+				<key>ActionParameters</key>
+				<dict>
+					<key>URL</key>
+					<string>/System/Library/Filters/Black &amp; White.qfilter</string>
+				</dict>
+				<key>Application</key>
+				<array>
+					<string>PDF</string>
+				</array>
+				<key>BundleIdentifier</key>
+				<string>com.apple.action.qfilterpdf</string>
+				<key>CFBundleVersion</key>
+				<string>1.6.0</string>
+				<key>CanShowSelectedItemsWhenRun</key>
+				<true/>
+				<key>CanShowWhenRun</key>
+				<true/>
+				<key>Category</key>
+				<array>
+					<string>AMCategoryPDFs</string>
+				</array>
+				<key>Class Name</key>
+				<string>PDF_Quartz_Filters</string>
+				<key>InputUUID</key>
+				<string>BEE1DDE4-10F4-4112-950A-FF5D31A5361A</string>
+				<key>Keywords</key>
+				<array>
+					<string>PDF</string>
+					<string>Change</string>
+				</array>
+				<key>OutputUUID</key>
+				<string>65B82319-EC84-4012-8205-16B2F955817C</string>
+				<key>UUID</key>
+				<string>EAFE0C95-BAA3-42C2-8B3C-4385436C353D</string>
+				<key>UnlocalizedApplications</key>
+				<array>
+					<string>PDF</string>
+				</array>
+				<key>arguments</key>
+				<dict/>
+				<key>isViewVisible</key>
+				<true/>
+				<key>location</key>
+				<string>309.500000:467.000000</string>
+				<key>nibPath</key>
+				<string>/System/Library/Automator/Apply Quartz Filter to PDF Documents.action/Contents/Resources/English.lproj/main.nib</string>
+			</dict>
+			<key>isViewVisible</key>
+			<true/>
+		</dict>
+	</array>
+	<key>connectors</key>
+	<dict/>
+	<key>state</key>
+	<dict>
+		<key>AMLogTabViewSelectedIndex</key>
+		<integer>0</integer>
+		<key>libraryState</key>
+		<dict>
+			<key>actionsMajorSplitViewState</key>
+			<dict>
+				<key>expandedPosition</key>
+				<real>0.0</real>
+				<key>subviewState</key>
+				<array>
+					<string>0.000000, 0.000000, 381.000000, 515.000000, NO</string>
+					<string>0.000000, 516.000000, 381.000000, 87.000000, NO</string>
+				</array>
+			</dict>
+			<key>actionsMinorSplitViewState</key>
+			<dict>
+				<key>expandedPosition</key>
+				<real>0.0</real>
+				<key>subviewState</key>
+				<array>
+					<string>0.000000, 0.000000, 163.000000, 515.000000, NO</string>
+					<string>164.000000, 0.000000, 217.000000, 515.000000, NO</string>
+				</array>
+			</dict>
+			<key>variablesMajorSplitViewState</key>
+			<dict>
+				<key>expandedPosition</key>
+				<real>0.0</real>
+				<key>subviewState</key>
+				<array>
+					<string>0.000000, 0.000000, 350.000000, 555.000000, NO</string>
+					<string>0.000000, 556.000000, 350.000000, 148.000000, NO</string>
+				</array>
+			</dict>
+			<key>variablesMinorSplitViewState</key>
+			<dict>
+				<key>expandedPosition</key>
+				<real>0.0</real>
+				<key>subviewState</key>
+				<array>
+					<string>0.000000, 0.000000, 163.000000, 555.000000, NO</string>
+					<string>164.000000, 0.000000, 186.000000, 555.000000, NO</string>
+				</array>
+			</dict>
+		</dict>
+		<key>majorSplitViewState</key>
+		<dict>
+			<key>expandedPosition</key>
+			<real>0.0</real>
+			<key>subviewState</key>
+			<array>
+				<string>0.000000, 0.000000, 381.000000, 648.000000, NO</string>
+				<string>382.000000, 0.000000, 619.000000, 648.000000, NO</string>
+			</array>
+		</dict>
+		<key>minorSplitViewState</key>
+		<dict>
+			<key>expandedPosition</key>
+			<real>0.0</real>
+			<key>subviewState</key>
+			<array>
+				<string>0.000000, 0.000000, 619.000000, 457.000000, NO</string>
+				<string>0.000000, 467.000000, 619.000000, 162.000000, NO</string>
+			</array>
+		</dict>
+		<key>windowFrame</key>
+		<string>{{76, 142}, {1000, 725}}</string>
+		<key>workflowViewScrollPosition</key>
+		<string>{{0, 0}, {619, 457}}</string>
+	</dict>
+	<key>workflowMetaData</key>
+	<dict>
+		<key>workflowTypeIdentifier</key>
+		<string>com.apple.Automator.application</string>
+	</dict>
+</dict>
+</plist>
