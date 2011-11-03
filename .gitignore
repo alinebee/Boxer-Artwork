@@ -1,5 +1,3 @@
-syntax: glob
-
 Inspiration/
 #Ignore Finder metadata files
 .DS_Store
