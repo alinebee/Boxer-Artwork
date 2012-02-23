@@ -4,10 +4,10 @@ Boxer art files
 This repository contains the original source files for the
 Boxer application's icons and user interface art. The latest
 versions of these can be downloaded from
-http://bitbucket.org/alunbestor/boxer-artwork.
+https://github.com/alunbestor/Boxer-Artwork.
 
 If you're looking for the sourcecode to Boxer itself, this can
-be found at http://bitbucket.org/alunbestor/boxer.
+be found at https://github.com/alunbestor/Boxer.
 
 
 Usage conditions
